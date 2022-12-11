@@ -14,6 +14,11 @@ Users should be able to:
 I started with HTML, paying special attention to class names. 
 The CSS for this project was the challenging, particularly margins.
 
+## Screenshot
+
+This is a screenshot of the finished product:
+https://imgur.com/RpASoCU
+
 ### Built with
 
 - Semantic HTML5 markup
